@@ -70,6 +70,11 @@ configure diskusage widget in Wibox section
 -- {{{ Widgets configuration
 ```
 
+```lua
+-- Create a textclock widget
+mytextclock = awful.widget.textclock("%a %b %d, %R:%S ")
+```
+
 diskusage is added to mytextclock a textclock widget  
 
 ```lua
@@ -78,4 +83,8 @@ diskusage is added to mytextclock a textclock widget
   calendar356.addCalendarToWidget(mytextclock)
 ```
 
-
+```lua
+-- Widgets that are aligned to the right
+ ...
+    right_layout:add(mytextclock)
+ ```
