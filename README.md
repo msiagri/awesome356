@@ -75,7 +75,7 @@ configure calendar356 widget in Wibox section
 mytextclock = awful.widget.textclock("%a %b %d, %R:%S ")
 ```
 
-diskusage is added to mytextclock a textclock widget  
+calendar356 is added to mytextclock a textclock widget  
 
 ```lua
 -- calendar356 module calendar356
