@@ -24,7 +24,9 @@ in Wibox section
 -- {{{ Wibox
 -- {{{ Widgets configuration
 ```
-configure diskusage widget  
+diskusage widgetconfiguration
+
+diskusage is added to diskwidget a imageboxbox widget  
 
 ```lua
   --- diskusage widget
