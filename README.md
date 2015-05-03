@@ -2,11 +2,11 @@
 
 ## Awesome ver. 3.5.6 windows manager
 
-# Widgets 
+## Widgets 
 
 Here same widgets modified to work in awesome version 3.5.6 
 
-## widget: diskusage file:diskusage.lua 
+## diskusage widget file:diskusage.lua 
  
 #### Screenshot
  ![diskusage ](https://github.com/msiagri/awesome356/blob/master/screenshots/Aw-356-diskusage.png?raw=true "diskusage widget awesome 3.5.6")
