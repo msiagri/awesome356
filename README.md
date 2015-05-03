@@ -18,13 +18,12 @@ include diskusage in your awesome config file rc.lua
 ```lua
 local diskusage = require("diskusage")
 ```
-in Wibox section 
+configure diskusage widget in Wibox section 
 
 ```lua
 -- {{{ Wibox
 -- {{{ Widgets configuration
 ```
-diskusage widgetconfiguration
 
 diskusage is added to diskwidget a imageboxbox widget  
 
