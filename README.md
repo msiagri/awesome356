@@ -7,10 +7,7 @@ Widgets
 Here same widgets modified to work in awesome version 3.5.6 
 
 - diskusage.lua  
- ![diskusage ](https://github.com/msiagri/awesome356/blob/master/screenshots/Aw-356-diskusage.png) 
-
-
-"diskusage widget awesome 3.5.6")
+ ![diskusage ](https://github.com/msiagri/awesome356/blob/master/screenshots/Aw-356-diskusage.png "diskusage widget awesome 3.5.6")
  
 
 - calendar 
