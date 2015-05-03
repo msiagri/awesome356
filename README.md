@@ -2,11 +2,11 @@
 
 ## Awesome ver. 3.5.6 windows manager
 
-## Widgets x awesome 3.5.6
+### Widgets x awesome 3.5.6
 
 Here same widgets modified to work in awesome version 3.5.6 
 
-## diskusage 3.5.6 widget file:diskusage.lua 
+### diskusage 3.5.6 widget file:diskusage.lua 
  
 #### Screenshot
  ![diskusage ](https://github.com/msiagri/awesome356/blob/master/screenshots/Aw-356-diskusage.png?raw=true "diskusage widget awesome 3.5.6")
@@ -46,7 +46,7 @@ Add diskusage in Widgets that are aligned to the right
 ```
 
 
-## calendar widget file:calendar356.lua module calendar356
+### calendar widget file:calendar356.lua module calendar356
 
  
 #### Screenshots
