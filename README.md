@@ -70,7 +70,7 @@ configure diskusage widget in Wibox section
 -- {{{ Widgets configuration
 ```
 
-diskusage is added to diskwidget a imageboxbox widget  
+diskusage is added to mytextclock a textclock widget  
 
 ```lua
 -- calendar356 module calendar356
