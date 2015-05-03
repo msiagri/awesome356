@@ -17,6 +17,7 @@ Here same widgets modified to work in awesome version 3.5.6
 
   --- Disk usage widget
   diskwidget = wibox.widget.imagebox()
+  
   diskwidget:set_image(awful.util.getdir("config") .. "/du.png")
   disk = require("diskusage")
   -- the first argument is the widget to trigger the diskusage
