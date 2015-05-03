@@ -63,7 +63,7 @@ include calendar356 in your awesome config file rc.lua
 ```lua
 local calendar356 = require("calendar356")
 ```
-configure diskusage widget in Wibox section 
+configure calendar356 widget in Wibox section 
 
 ```lua
 -- {{{ Wibox
@@ -87,4 +87,5 @@ diskusage is added to mytextclock a textclock widget
 -- Widgets that are aligned to the right
  ...
     right_layout:add(mytextclock)
+    right_layout:add(mylayoutbox[s])
  ```
