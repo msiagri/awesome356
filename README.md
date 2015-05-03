@@ -1,5 +1,13 @@
 # awesome356
 
-awesome wm 3.5.6 widgets
-- diskusage
+Awesome windows manager 3.5.6 
+
+Widgets 
+
+Here same widgets modified to work in awesome version 3.5.6 
+
+- diskusage.lua  
+ 
+ 
+
 - calendar 
